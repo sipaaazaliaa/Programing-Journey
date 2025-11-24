@@ -1,0 +1,17 @@
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah_Makan.Form1.resources
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah_Makan.Properties.Resources.resources
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.csproj.GenerateResource.cache
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.AssemblyInfoInputs.cache
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.AssemblyInfo.cs
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.csproj.CoreCompileInputs.cache
+C:\C#\Rumah Makan\Rumah Makan\bin\Debug\net9.0-windows\Rumah Makan.exe
+C:\C#\Rumah Makan\Rumah Makan\bin\Debug\net9.0-windows\Rumah Makan.deps.json
+C:\C#\Rumah Makan\Rumah Makan\bin\Debug\net9.0-windows\Rumah Makan.runtimeconfig.json
+C:\C#\Rumah Makan\Rumah Makan\bin\Debug\net9.0-windows\Rumah Makan.dll
+C:\C#\Rumah Makan\Rumah Makan\bin\Debug\net9.0-windows\Rumah Makan.pdb
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.dll
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\refint\Rumah Makan.dll
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.pdb
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\Rumah Makan.genruntimeconfig.cache
+C:\C#\Rumah Makan\Rumah Makan\obj\Debug\net9.0-windows\ref\Rumah Makan.dll
